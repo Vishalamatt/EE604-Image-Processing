@@ -1,3 +1,3 @@
 # EE604-Image-Processing
 
-This is a repo which contains all the Assingments of EE604
+This is a repository which contains all the Assingments of EE604
